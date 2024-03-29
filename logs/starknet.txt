@@ -370,3 +370,4 @@
 {"error":"{\"Error_GUID\":\"9614001218141565644\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:starknet_blockNumber,connectionType:POST},method:starknet_blockNumber}\"}"}
 {"error":"{\"Error_GUID\":\"12339193385663330254\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:starknet_blockNumber,connectionType:POST},method:starknet_blockNumber}\"}"}
 {"error":"{\"Error_GUID\":\"9494263478992615067\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:starknet_blockNumber,connectionType:POST},method:starknet_blockNumber}\"}"}
+{"error":"{\"Error_GUID\":\"3035349598303988755\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:starknet_blockNumber,connectionType:POST},method:starknet_blockNumber}\"}"}
